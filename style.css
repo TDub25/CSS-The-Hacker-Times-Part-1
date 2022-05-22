@@ -2,16 +2,42 @@
 body {
     font-family: Source Sans Pro;
     background-color: #eee;
+    border-color: #eee;
 }
 #newspaper-container {
     background-color: white;
+    box-shadow: #ddd;
+    border-radius: 15%;
+    width: 700px;
+    box-shadow: 10px;
+    padding: 1em;
+}
+main>p {
+    color: #dd3232;
+}
+main>img {
+    display: block;
+    width: 100%;
+}
+nav {
+    text-align: center;
+    border-color: #777;
+    border-top: 2px solid;
+    border-bottom: 2px solid;
+}
+a:link {
+    padding: 1.1em;
+    text-decoration: none;
+    color: #777;
 }
 li {
     display: inline-block;
-    color: #777;
 }
 header {
     font-family: Abril Fatface;
+}
+h1 {
+    text-align: center;
 }
 h2, h4 {
     font-family: Roboto Slab;
