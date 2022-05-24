@@ -29,6 +29,9 @@ nav {
     border-color: #777;
     border-top: 2px solid;
     border-bottom: 2px solid;
+    position: sticky;
+    top: 0em;
+    background-color: white;
 }
 a:link {
     padding: 1.1em;
