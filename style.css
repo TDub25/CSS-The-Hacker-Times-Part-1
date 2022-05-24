@@ -25,6 +25,7 @@ main>p {
 }
 nav {
     text-align: center;
+    font-size: .75em;
     border-color: #777;
     border-top: 2px solid;
     border-bottom: 2px solid;
