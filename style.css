@@ -7,9 +7,10 @@ body {
 .newspaper-container {
     background-color: white;
     box-shadow: #ddd;
-    border-radius: 15%;
+    border-radius: 10%;
     width: 700px;
     box-shadow: 10px;
+    box-sizing: border-box;
     padding: 1em;
 }
 main>h5 {
@@ -52,8 +53,8 @@ h2, h4 {
 }
 .sections {
     display: inline-block;
-    width: 300px;
-    padding: 1.5em;
+    width: 250px;
+    padding: 2em;
     text-align: justify;
 }
 .date {
