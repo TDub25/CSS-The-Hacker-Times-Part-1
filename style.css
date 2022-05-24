@@ -54,8 +54,15 @@ h2, h4 {
     display: inline-block;
     width: 300px;
     padding: 1.5em;
+    text-align: justify;
 }
 .date {
     position: absolute;
     left: 50px;
+}
+.editor-section {
+    display: inline-block;
+    width: 200px;
+    padding: 0.5em;
+    text-align: justify;
 }
